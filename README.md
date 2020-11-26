@@ -5,7 +5,7 @@
 |Helmi Salasfazri | Ti.20.A2 | 312010486 | Bahasa Pemrograman |
 
 ## Tugas Latihan 4
-![gambar output](gambar/latihan4.png)
+![gambar output](gambar/latihan4.PNG)
 
 ## Hasil Source Code
 ```python
@@ -38,7 +38,7 @@ print("════════════════════════�
 ![gambar output](gambar/Hasillatihan4.png)
 
 ## Tugas Praktikum 4
-![gambar output](gambar/soalpraktikum4.png)
+![gambar output](gambar/soalpraktikum4.PNG)
 
 ## Hasil Source Code
 ```python
