@@ -1,10 +1,11 @@
 # Tugas Pertemuan 9 Dan Pengerttian
 ## Tugas Melengkapi Praktikum 9
 | Nama | kelas | Nim | Matkul |
-| -- | --- | ---- | ---Helmi Salasfazri | Ti.20.A2 | 312010486 | Bahasa Pemrograman |
+| -- | --- | ---- | ---|
+|Helmi Salasfazri | Ti.20.A2 | 312010486 | Bahasa Pemrograman |
 
 ## Tugas Latihan 4
-![gambar output](gambar/latihan.PNG)
+![gambar output](gambar/latihan4.png)
 
 ## Hasil Source Code
 ```python
@@ -34,16 +35,16 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](gambar/Hasillatihan4.PNG)
+![gambar output](gambar/Hasillatihan4.png)
 
 ## Tugas Praktikum 4
-![gambar output](gambar/soalpraktikum4.PNG)
+![gambar output](gambar/soalpraktikum4.png)
 
 ## Hasil Source Code
 ```python
 #Membuat variable perulangan dengan eaa.....
 #Jangan maling uyyy
-#Rizky Coder
+#helmi Coder
 data = []
 while True : 
 	nama	= input	("Nama 		:")
@@ -115,7 +116,11 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.PNG)
+![gambar output](gambar/hasilpraktikum4.png)
+
+## hasil flowchart
+![gambar output](gambar/flowchart4.png)
+
 
 
 
